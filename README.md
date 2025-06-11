@@ -1,4 +1,2 @@
 # startup-of-github
-author
-<br>
--fatima khalid
+author-fatima khalid
